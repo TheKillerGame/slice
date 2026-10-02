@@ -8,7 +8,9 @@ By **RisingForce**.
 
 ## Play
 
-Open `index.html` in any browser, on a phone or a computer. It's a single file
+**Play it here: https://thekillergame.github.io/slice/**
+
+Or open `index.html` in any browser, on a phone or a computer. It's a single file
 with no install, no server and no internet needed (the fonts are embedded and
 the sounds are made in code). Swipe with a finger, or drag with the mouse.
 
